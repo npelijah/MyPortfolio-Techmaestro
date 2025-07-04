@@ -30,7 +30,7 @@ As the lead developer, the following steps were followed to set up and manage th
 
 6. **Create a `README.md` file** to document the project:
    touch README.md  
-   (Paste this content into the file)  
+   (Enter the project documentation/instructions)  
    git add README.md  
    git commit -m "Add README file"
 
