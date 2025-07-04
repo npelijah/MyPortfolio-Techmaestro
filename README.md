@@ -35,7 +35,7 @@ As the lead developer, the following steps were followed to set up and manage th
    git commit -m "Add README file"
 
 7. **Push the project to GitHub**:
-   git remote add origin https://github.com/yourusername/MyPortfolio-Techmaestro.git  
+   git remote add origin https://github.com/npelijah/MyPortfolio-Techmaestro.git  
    git push -u origin main
 
 ---
@@ -50,7 +50,7 @@ As the lead developer, the following steps were followed to set up and manage th
 
 ## 📌 Repository
 
-https://github.com/yourusername/MyPortfolio-Techmaestro
+https://github.com/npelijah/MyPortfolio-Techmaestro
 
 ---
 
